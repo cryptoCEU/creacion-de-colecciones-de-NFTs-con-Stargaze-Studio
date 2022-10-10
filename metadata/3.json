@@ -1,0 +1,16 @@
+{
+  "attributes": [
+    {
+      "trait_type": "season",
+      "value": "summer"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "editon",
+      "value": 3
+    }
+  ],
+  "description": "Mi primer NFT en Stargaze.",
+  "name": "Paisaje3"
+}
+
