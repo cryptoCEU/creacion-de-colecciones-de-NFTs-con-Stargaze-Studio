@@ -16,7 +16,7 @@ Stargaze Studio es una dApp para crear y administrar colecciones de NFT en Starg
 
 ### Enlaces utiles 
 
-* carpeta con imagenes formato jpeg
-* carpeta con metadatos formato json
-* archivo csv para realizar airdrop
-*
+* [Stargaze Studio TESTNET](https://studio.publicawesome.dev/collections/create/)
+* [Stargaze Studio MAINNET](https://studio.stargaze.zone/)
+* [NFT.Storage](https://nft.storage/)
+* [Stargaze Studio Docs](https://docs.stargaze.zone/guides/stargaze-studio)
